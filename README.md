@@ -1,4 +1,4 @@
-# GraduationThesis
+# GraduationThesis_Deep learning in Sentimental Analysis
 I had intended to reorganize the code to be cleaner and easier to look at. 
 However, I still keep the original because this showed part of my learning process back then, full of trials and errors.
 
@@ -18,3 +18,4 @@ These codes were aggregated from many sources and modified to work with my datas
 
 Finally, I got an A.
 And more than that, which is more important now, I know that I could learn anything I want, by myself, with my computer connected to the internet.
+
