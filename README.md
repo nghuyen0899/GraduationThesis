@@ -13,10 +13,10 @@ So, I thought I could learn Python by myself.
 
 At first, I followed a process I found on the internet, from re-processing the data to evaluating the model.
 Then I showed it to my supervisor, he didn't like it. He asked me to add more details about the dataset and the models.
-Therefore, from 1 code file at the beginning, I got 5 more, each of them is a different way that I found to explore the data.
+Therefore, from 1 code file at the beginning (snn.ipynb), I got 5 more (CD, bigram, postag, frequency, wordcloud) each of them is a different way that I had found to explore the data.
 These codes were aggregated from many sources and modified to work with my dataset.
 
 Finally, I got an A.
 And more than that, which is more important now, I know that I could learn anything I want, by myself, with my computer connected to the internet.
 
-I'm using this code as part of my resume along with the PorfolioProject. So, sorry if you found this description sound "a bit" cringe and complacent. ^^
+I'm using this as part of my resume along with the PorfolioProject. So, sorry if you found this description "a bit" cringe and complacent. ^^
